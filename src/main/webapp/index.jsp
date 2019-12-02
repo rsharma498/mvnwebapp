@@ -5,6 +5,8 @@
   	<br>
 	this web page will get auto deployed if we change code using CICD
 	<br>
+	<h1> If we change code and push it to git it will be automactilly deployed.<br>
+		jenkins will check every 2 min</h1>
   </h3>
 </body>
 </html>
