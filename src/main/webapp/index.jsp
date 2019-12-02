@@ -5,7 +5,6 @@
   	<br>
 	this web page will get auto deployed if we change code using CICD
 	<br>
-	THIS LINE I ADDED AFTER CICD CONFIGURATION!!!!!!!!
   </h3>
 </body>
 </html>
