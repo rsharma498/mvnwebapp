@@ -13,6 +13,6 @@
   </h3>
   <h1>
 	  Celebrate!
-By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!
+By completing this tutorial, you have learned to create a project and make a pull request on GitHub!
 </body>
 </html>
